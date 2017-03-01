@@ -13,3 +13,10 @@ Branches can help us by creating a new possibility of trying new things, and if 
 
 How do the diagrams help you visualize the branch structure?
 They will give us an ideas how branches are related or not, and how can we move to a specific commit.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result of merging two branches is a new commit connecting the previous commits of these two branches.
+I don't know.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros of automatic merging are that it's much faster and easier than doing in manually, while the cons are in specific cases like in confilt merging it doesn't know what to do so here comes the manually merging bright side.
