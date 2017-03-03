@@ -30,3 +30,5 @@ and what would be harder?
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
+
+	Every time that I might be adding/deleting something in the same file that someone else might be working, because they also must check the changes done by me in order to make them fully compatible with their changes.
